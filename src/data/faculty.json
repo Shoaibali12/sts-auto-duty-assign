@@ -1,0 +1,1202 @@
+[
+ {
+  "NAME": "Dr. Ayesha Jamal",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2018-03-31",
+  "SENIORITY (DAYS)": 2666,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Nadia Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2018-08-31",
+  "SENIORITY (DAYS)": 2513,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Sana Ansari",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2010-02-20",
+  "SENIORITY (DAYS)": 5627,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Rida Farooq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2009-09-25",
+  "SENIORITY (DAYS)": 5775,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Tariq Khan",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2020-04-16",
+  "SENIORITY (DAYS)": 1919,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Sana Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2021-06-01",
+  "SENIORITY (DAYS)": 1508,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Hira Rizvi",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2018-03-13",
+  "SENIORITY (DAYS)": 2684,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Sana Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2010-02-19",
+  "SENIORITY (DAYS)": 5628,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Noman Khan",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2016-07-13",
+  "SENIORITY (DAYS)": 3292,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Salman Jamal",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2006-05-12",
+  "SENIORITY (DAYS)": 7007,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Usman Farooq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2010-07-30",
+  "SENIORITY (DAYS)": 5467,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Hira Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2014-12-10",
+  "SENIORITY (DAYS)": 3873,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Hira Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2008-09-10",
+  "SENIORITY (DAYS)": 6155,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Asim Khan",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2009-03-03",
+  "SENIORITY (DAYS)": 5981,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Hira Farooq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2005-03-18",
+  "SENIORITY (DAYS)": 7427,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Ali Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2017-01-22",
+  "SENIORITY (DAYS)": 3099,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Tariq Ahmed",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2010-06-25",
+  "SENIORITY (DAYS)": 5502,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Ali Mirza",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2019-12-25",
+  "SENIORITY (DAYS)": 2032,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Tariq Jamal",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2007-07-06",
+  "SENIORITY (DAYS)": 6587,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Noman Farooq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2012-12-07",
+  "SENIORITY (DAYS)": 4606,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Ayesha Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2022-05-07",
+  "SENIORITY (DAYS)": 1168,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Bilal Iqbal",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2011-10-26",
+  "SENIORITY (DAYS)": 5014,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Rida Mirza",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2011-05-14",
+  "SENIORITY (DAYS)": 5179,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Ayesha Ansari",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2023-05-11",
+  "SENIORITY (DAYS)": 799,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Ayesha Ahmed",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2006-01-14",
+  "SENIORITY (DAYS)": 7125,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Hira Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2015-03-20",
+  "SENIORITY (DAYS)": 3773,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Sana Shaikh",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2021-11-04",
+  "SENIORITY (DAYS)": 1352,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Tariq Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2015-03-29",
+  "SENIORITY (DAYS)": 3764,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Dr. Nadia Farooq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2008-02-08",
+  "SENIORITY (DAYS)": 6370,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Salman Iqbal",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2022-03-04",
+  "SENIORITY (DAYS)": 1232,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Sana Ahmed",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2013-09-21",
+  "SENIORITY (DAYS)": 4318,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Ali Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2019-06-02",
+  "SENIORITY (DAYS)": 2238,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Sana Ansari",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2021-12-01",
+  "SENIORITY (DAYS)": 1325,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Salman Ansari",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2022-11-10",
+  "SENIORITY (DAYS)": 981,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Salman Tariq",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2011-04-04",
+  "SENIORITY (DAYS)": 5219,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Rida Hassan",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2023-09-04",
+  "SENIORITY (DAYS)": 683,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Salman Rizvi",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2017-12-10",
+  "SENIORITY (DAYS)": 2777,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Adeel Zafar",
+  "DESIGNATION": "Professor",
+  "GRADE": 22,
+  "DATE OF JOINING": "2022-02-09",
+  "SENIORITY (DAYS)": 1255,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Ayesha Rizvi",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2008-02-18",
+  "SENIORITY (DAYS)": 6360,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Hira Zafar",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2020-08-29",
+  "SENIORITY (DAYS)": 1784,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Zain Zafar",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-06-06",
+  "SENIORITY (DAYS)": 3329,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Fatima Mirza",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2022-10-07",
+  "SENIORITY (DAYS)": 1015,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Tariq Zafar",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2017-02-04",
+  "SENIORITY (DAYS)": 3086,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Fatima Mirza",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2014-02-12",
+  "SENIORITY (DAYS)": 4174,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Ali Rizvi",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2014-01-21",
+  "SENIORITY (DAYS)": 4196,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Ayesha Jamal",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2020-01-25",
+  "SENIORITY (DAYS)": 2001,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Usman Hassan",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2021-02-04",
+  "SENIORITY (DAYS)": 1625,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Nadia Mirza",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2021-08-17",
+  "SENIORITY (DAYS)": 1431,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Noman Iqbal",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2010-04-24",
+  "SENIORITY (DAYS)": 5564,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Rida Mirza",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2021-07-09",
+  "SENIORITY (DAYS)": 1470,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Rida Iqbal",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2010-12-26",
+  "SENIORITY (DAYS)": 5318,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Salman Chaudhry",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2010-01-01",
+  "SENIORITY (DAYS)": 5677,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Fatima Iqbal",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2010-09-18",
+  "SENIORITY (DAYS)": 5417,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Zain Ansari",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2018-10-22",
+  "SENIORITY (DAYS)": 2461,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Hira Chaudhry",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-06-19",
+  "SENIORITY (DAYS)": 3316,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Sana Iqbal",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2006-06-11",
+  "SENIORITY (DAYS)": 6977,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Ayesha Ansari",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-11-08",
+  "SENIORITY (DAYS)": 618,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Usman Ahmed",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2018-08-04",
+  "SENIORITY (DAYS)": 2540,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Fatima Zafar",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2007-04-15",
+  "SENIORITY (DAYS)": 6669,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Adeel Khan",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2019-04-23",
+  "SENIORITY (DAYS)": 2278,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Ayesha Tariq",
+  "DESIGNATION": "Associate Professor",
+  "GRADE": 21,
+  "DATE OF JOINING": "2008-11-24",
+  "SENIORITY (DAYS)": 6080,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Nadia Ahmed",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-04-18",
+  "SENIORITY (DAYS)": 6666,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Zain Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-02-07",
+  "SENIORITY (DAYS)": 892,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Bilal Ansari",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2017-12-13",
+  "SENIORITY (DAYS)": 2774,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Usman Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2006-10-16",
+  "SENIORITY (DAYS)": 6850,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Salman Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2008-08-25",
+  "SENIORITY (DAYS)": 6171,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Tariq Jamal",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2019-05-10",
+  "SENIORITY (DAYS)": 2261,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Rida Ahmed",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-07-03",
+  "SENIORITY (DAYS)": 6590,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Zain Shaikh",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2016-03-24",
+  "SENIORITY (DAYS)": 3403,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Dr. Tariq Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-11-17",
+  "SENIORITY (DAYS)": 609,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Noman Farooq",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2010-05-16",
+  "SENIORITY (DAYS)": 5542,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Usman Ahmed",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-10-29",
+  "SENIORITY (DAYS)": 3915,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Ayesha Zafar",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2010-11-07",
+  "SENIORITY (DAYS)": 5367,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Bilal Ansari",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-08-04",
+  "SENIORITY (DAYS)": 6558,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Sana Ansari",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2016-05-03",
+  "SENIORITY (DAYS)": 3363,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Bilal Khan",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2005-12-28",
+  "SENIORITY (DAYS)": 7142,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Ali Hassan",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2013-03-07",
+  "SENIORITY (DAYS)": 4516,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Fatima Ahmed",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2005-11-10",
+  "SENIORITY (DAYS)": 7190,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Nadia Iqbal",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2018-12-23",
+  "SENIORITY (DAYS)": 2399,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Ayesha Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2016-05-17",
+  "SENIORITY (DAYS)": 3349,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Rida Tariq",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2022-03-06",
+  "SENIORITY (DAYS)": 1230,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Hira Ansari",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2010-04-05",
+  "SENIORITY (DAYS)": 5583,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Asim Chaudhry",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2009-09-30",
+  "SENIORITY (DAYS)": 5770,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Usman Jamal",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-06-05",
+  "SENIORITY (DAYS)": 6618,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Rida Khan",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2006-07-19",
+  "SENIORITY (DAYS)": 6939,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Zain Shaikh",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2018-10-25",
+  "SENIORITY (DAYS)": 2458,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Nadia Khan",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2009-01-29",
+  "SENIORITY (DAYS)": 6014,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Sana Farooq",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2011-04-10",
+  "SENIORITY (DAYS)": 5213,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Fatima Ahmed",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2019-11-23",
+  "SENIORITY (DAYS)": 2064,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Nadia Chaudhry",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-07-18",
+  "SENIORITY (DAYS)": 4018,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Nadia Farooq",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2011-11-17",
+  "SENIORITY (DAYS)": 4992,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Sana Rizvi",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-09-07",
+  "SENIORITY (DAYS)": 6524,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Nadia Shaikh",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2015-09-19",
+  "SENIORITY (DAYS)": 3590,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Asim Shaikh",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2006-11-29",
+  "SENIORITY (DAYS)": 6806,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Salman Zafar",
+  "DESIGNATION": "Assistant Professor",
+  "GRADE": 20,
+  "DATE OF JOINING": "2017-10-03",
+  "SENIORITY (DAYS)": 2845,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Usman Chaudhry",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2006-10-08",
+  "SENIORITY (DAYS)": 6858,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Noman Jamal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2019-06-03",
+  "SENIORITY (DAYS)": 2237,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Ali Rizvi",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2016-11-13",
+  "SENIORITY (DAYS)": 3169,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Noman Khan",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2005-06-09",
+  "SENIORITY (DAYS)": 7344,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Ali Chaudhry",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-04-09",
+  "SENIORITY (DAYS)": 5944,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Fatima Ansari",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2014-03-22",
+  "SENIORITY (DAYS)": 4136,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Sana Hassan",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-02-12",
+  "SENIORITY (DAYS)": 6000,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Adeel Iqbal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-05-26",
+  "SENIORITY (DAYS)": 5167,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Adeel Jamal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2016-04-12",
+  "SENIORITY (DAYS)": 3384,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Rida Jamal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-12-28",
+  "SENIORITY (DAYS)": 5681,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Ali Iqbal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2018-08-07",
+  "SENIORITY (DAYS)": 2537,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Noman Ansari",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2016-02-02",
+  "SENIORITY (DAYS)": 3454,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Hira Shaikh",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2015-02-04",
+  "SENIORITY (DAYS)": 3817,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Zain Farooq",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2006-05-26",
+  "SENIORITY (DAYS)": 6993,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Zain Chaudhry",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2023-09-30",
+  "SENIORITY (DAYS)": 657,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Nadia Farooq",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-03-30",
+  "SENIORITY (DAYS)": 5224,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Adeel Ahmed",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2013-11-24",
+  "SENIORITY (DAYS)": 4254,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Ayesha Farooq",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2007-05-15",
+  "SENIORITY (DAYS)": 6639,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Nadia Ansari",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2020-11-12",
+  "SENIORITY (DAYS)": 1709,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Dr. Usman Chaudhry",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2015-01-20",
+  "SENIORITY (DAYS)": 3832,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Rida Jamal",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-03-16",
+  "SENIORITY (DAYS)": 5238,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Fatima Khan",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2015-09-27",
+  "SENIORITY (DAYS)": 3582,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Sana Mirza",
+  "DESIGNATION": "Lecturer (Acting)",
+  "GRADE": 19,
+  "DATE OF JOINING": "2014-12-06",
+  "SENIORITY (DAYS)": 3877,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Adeel Khan",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2005-08-06",
+  "SENIORITY (DAYS)": 7286,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Sana Jamal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2014-05-30",
+  "SENIORITY (DAYS)": 4067,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Asim Ahmed",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2010-11-23",
+  "SENIORITY (DAYS)": 5351,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Ali Tariq",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2022-06-19",
+  "SENIORITY (DAYS)": 1125,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Salman Rizvi",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2022-03-06",
+  "SENIORITY (DAYS)": 1230,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Dr. Asim Ansari",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2008-09-14",
+  "SENIORITY (DAYS)": 6151,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Bilal Ansari",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2007-12-20",
+  "SENIORITY (DAYS)": 6420,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Dr. Fatima Khan",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2023-10-02",
+  "SENIORITY (DAYS)": 655,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Usman Jamal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-11-06",
+  "SENIORITY (DAYS)": 2081,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Asim Tariq",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2021-07-03",
+  "SENIORITY (DAYS)": 1476,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Noman Zafar",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-11-03",
+  "SENIORITY (DAYS)": 6832,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Bilal Shaikh",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2020-10-12",
+  "SENIORITY (DAYS)": 1740,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Noman Jamal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2005-10-23",
+  "SENIORITY (DAYS)": 7208,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Nadia Ansari",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2012-06-05",
+  "SENIORITY (DAYS)": 4791,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Usman Iqbal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2020-05-28",
+  "SENIORITY (DAYS)": 1877,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Ayesha Iqbal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2007-11-09",
+  "SENIORITY (DAYS)": 6461,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Sana Iqbal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-09-08",
+  "SENIORITY (DAYS)": 2140,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Rida Iqbal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2015-06-03",
+  "SENIORITY (DAYS)": 3698,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Dr. Rida Chaudhry",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2018-05-10",
+  "SENIORITY (DAYS)": 2626,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Rida Chaudhry",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2014-07-28",
+  "SENIORITY (DAYS)": 4008,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Dr. Tariq Jamal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2009-12-12",
+  "SENIORITY (DAYS)": 5697,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Noman Shaikh",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2005-08-09",
+  "SENIORITY (DAYS)": 7283,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Bilal Rizvi",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-03-03",
+  "SENIORITY (DAYS)": 7077,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Sana Tariq",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2008-06-02",
+  "SENIORITY (DAYS)": 6255,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Dr. Asim Chaudhry",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2009-11-21",
+  "SENIORITY (DAYS)": 5718,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Dr. Rida Chaudhry",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2011-01-08",
+  "SENIORITY (DAYS)": 5305,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Dr. Sana Mirza",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-12-27",
+  "SENIORITY (DAYS)": 2030,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Dr. Usman Ahmed",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2009-04-15",
+  "SENIORITY (DAYS)": 5938,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Dr. Sana Jamal",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2022-01-02",
+  "SENIORITY (DAYS)": 1293,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Bilal Tariq",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2007-11-03",
+  "SENIORITY (DAYS)": 6467,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Dr. Fatima Hassan",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2018-05-16",
+  "SENIORITY (DAYS)": 2620,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Fatima Shaikh",
+  "DESIGNATION": "Lecturer",
+  "GRADE": 18,
+  "DATE OF JOINING": "2015-07-17",
+  "SENIORITY (DAYS)": 3654,
+  "CITY": "Multan"
+ }
+]

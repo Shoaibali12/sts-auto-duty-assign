@@ -1,0 +1,1602 @@
+[
+ {
+  "NAME": "Mr. Usman Farooq",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2008-01-19",
+  "SENIORITY (DAYS)": 6390,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Ayesha Zafar",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-02-25",
+  "SENIORITY (DAYS)": 874,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Rida Iqbal",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2020-10-01",
+  "SENIORITY (DAYS)": 1751,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Rida Chaudhry",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2010-07-26",
+  "SENIORITY (DAYS)": 5471,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Usman Shaikh",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2018-05-22",
+  "SENIORITY (DAYS)": 2614,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Fatima Tariq",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-05-08",
+  "SENIORITY (DAYS)": 3358,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Nadia Mirza",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2012-05-06",
+  "SENIORITY (DAYS)": 4821,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Zain Ansari",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-07-13",
+  "SENIORITY (DAYS)": 3292,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Salman Hassan",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2011-04-08",
+  "SENIORITY (DAYS)": 5215,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Sana Jamal",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-01-20",
+  "SENIORITY (DAYS)": 910,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Hira Shaikh",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2007-01-12",
+  "SENIORITY (DAYS)": 6762,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Salman Mirza",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-09-26",
+  "SENIORITY (DAYS)": 661,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Ayesha Iqbal",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2006-11-01",
+  "SENIORITY (DAYS)": 6834,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Zain Ahmed",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-03-14",
+  "SENIORITY (DAYS)": 3413,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Hira Ansari",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-09-28",
+  "SENIORITY (DAYS)": 3215,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Zain Rizvi",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2020-09-07",
+  "SENIORITY (DAYS)": 1775,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Fatima Rizvi",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2015-09-08",
+  "SENIORITY (DAYS)": 3601,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Bilal Zafar",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2018-12-18",
+  "SENIORITY (DAYS)": 2404,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Fatima Shaikh",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2008-01-22",
+  "SENIORITY (DAYS)": 6387,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Rida Ahmed",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2006-03-05",
+  "SENIORITY (DAYS)": 7075,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Salman Jamal",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-04-24",
+  "SENIORITY (DAYS)": 3372,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Hira Jamal",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2015-10-18",
+  "SENIORITY (DAYS)": 3561,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Asim Mirza",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2009-12-22",
+  "SENIORITY (DAYS)": 5687,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Bilal Chaudhry",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2014-04-09",
+  "SENIORITY (DAYS)": 4118,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Fatima Ansari",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2019-10-18",
+  "SENIORITY (DAYS)": 2100,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Hira Hassan",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2016-02-08",
+  "SENIORITY (DAYS)": 3448,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Rida Farooq",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2017-04-26",
+  "SENIORITY (DAYS)": 3005,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Rida Farooq",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-09-14",
+  "SENIORITY (DAYS)": 673,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Asim Zafar",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2012-12-11",
+  "SENIORITY (DAYS)": 4602,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Rida Shaikh",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2015-03-20",
+  "SENIORITY (DAYS)": 3773,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Nadia Tariq",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2022-01-11",
+  "SENIORITY (DAYS)": 1284,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Zain Shaikh",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2017-09-28",
+  "SENIORITY (DAYS)": 2850,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Usman Khan",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2013-09-25",
+  "SENIORITY (DAYS)": 4314,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Sana Khan",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2013-01-29",
+  "SENIORITY (DAYS)": 4553,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Salman Ansari",
+  "DESIGNATION": "Senior Registrar",
+  "GRADE": 21,
+  "DATE OF JOINING": "2023-12-06",
+  "SENIORITY (DAYS)": 590,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Bilal Ansari",
+  "DESIGNATION": "Director",
+  "GRADE": 21,
+  "DATE OF JOINING": "2007-09-07",
+  "SENIORITY (DAYS)": 6524,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Salman Shaikh",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-10-12",
+  "SENIORITY (DAYS)": 645,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Ali Khan",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2016-07-21",
+  "SENIORITY (DAYS)": 3284,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Ayesha Chaudhry",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2019-02-17",
+  "SENIORITY (DAYS)": 2343,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Nadia Farooq",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2013-05-25",
+  "SENIORITY (DAYS)": 4437,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Hira Hassan",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2019-06-12",
+  "SENIORITY (DAYS)": 2228,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Zain Chaudhry",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2021-08-23",
+  "SENIORITY (DAYS)": 1425,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Zain Zafar",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2015-04-22",
+  "SENIORITY (DAYS)": 3740,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Sana Chaudhry",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-02-19",
+  "SENIORITY (DAYS)": 4167,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Rida Farooq",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-08-26",
+  "SENIORITY (DAYS)": 692,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Sana Tariq",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-09-09",
+  "SENIORITY (DAYS)": 678,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Adeel Ahmed",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2008-11-30",
+  "SENIORITY (DAYS)": 6074,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Adeel Farooq",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2019-03-17",
+  "SENIORITY (DAYS)": 2315,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Adeel Shaikh",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2022-08-21",
+  "SENIORITY (DAYS)": 1062,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Noman Rizvi",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-06-23",
+  "SENIORITY (DAYS)": 6600,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Usman Tariq",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2015-04-13",
+  "SENIORITY (DAYS)": 3749,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Usman Jamal",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2018-06-24",
+  "SENIORITY (DAYS)": 2581,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Sana Shaikh",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2008-06-05",
+  "SENIORITY (DAYS)": 6252,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Tariq Ansari",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-11-12",
+  "SENIORITY (DAYS)": 3901,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Adeel Khan",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2023-03-19",
+  "SENIORITY (DAYS)": 852,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Salman Ahmed",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2013-06-21",
+  "SENIORITY (DAYS)": 4410,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Sana Rizvi",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2009-11-22",
+  "SENIORITY (DAYS)": 5717,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Hira Mirza",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2013-03-18",
+  "SENIORITY (DAYS)": 4505,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Zain Ansari",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2021-01-11",
+  "SENIORITY (DAYS)": 1649,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Nadia Ahmed",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2013-08-31",
+  "SENIORITY (DAYS)": 4339,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Sana Tariq",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2007-09-25",
+  "SENIORITY (DAYS)": 6506,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Rida Jamal",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2017-12-23",
+  "SENIORITY (DAYS)": 2764,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Bilal Mirza",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-04-02",
+  "SENIORITY (DAYS)": 4125,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Bilal Chaudhry",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2015-10-24",
+  "SENIORITY (DAYS)": 3555,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Adeel Iqbal",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2014-08-30",
+  "SENIORITY (DAYS)": 3975,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Adeel Ahmed",
+  "DESIGNATION": "Additional Director",
+  "GRADE": 20,
+  "DATE OF JOINING": "2018-04-23",
+  "SENIORITY (DAYS)": 2643,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Adeel Ansari",
+  "DESIGNATION": "Deputy Registrar",
+  "GRADE": 20,
+  "DATE OF JOINING": "2022-02-12",
+  "SENIORITY (DAYS)": 1252,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Ali Jamal",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2015-11-07",
+  "SENIORITY (DAYS)": 3541,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Adeel Chaudhry",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2013-04-02",
+  "SENIORITY (DAYS)": 4490,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Usman Shaikh",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2023-05-01",
+  "SENIORITY (DAYS)": 809,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Hira Hassan",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2018-05-19",
+  "SENIORITY (DAYS)": 2617,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Rida Khan",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2015-08-30",
+  "SENIORITY (DAYS)": 3610,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Asim Rizvi",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2019-03-07",
+  "SENIORITY (DAYS)": 2325,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Ali Ahmed",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2006-06-29",
+  "SENIORITY (DAYS)": 6959,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Noman Zafar",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2023-05-26",
+  "SENIORITY (DAYS)": 784,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Rida Chaudhry",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2022-06-05",
+  "SENIORITY (DAYS)": 1139,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Asim Mirza",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2017-11-27",
+  "SENIORITY (DAYS)": 2790,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Noman Ahmed",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2016-10-22",
+  "SENIORITY (DAYS)": 3191,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Ali Iqbal",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2008-06-06",
+  "SENIORITY (DAYS)": 6251,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Salman Chaudhry",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2006-09-26",
+  "SENIORITY (DAYS)": 6870,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Zain Farooq",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-06-04",
+  "SENIORITY (DAYS)": 5888,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Salman Hassan",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2018-11-17",
+  "SENIORITY (DAYS)": 2435,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Asim Ahmed",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2013-08-15",
+  "SENIORITY (DAYS)": 4355,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Sana Iqbal",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-07-13",
+  "SENIORITY (DAYS)": 5849,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Tariq Hassan",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2007-08-14",
+  "SENIORITY (DAYS)": 6548,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Bilal Rizvi",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2009-11-08",
+  "SENIORITY (DAYS)": 5731,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Ayesha Ansari",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2020-01-26",
+  "SENIORITY (DAYS)": 2000,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Rida Ahmed",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2017-05-19",
+  "SENIORITY (DAYS)": 2982,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Ali Shaikh",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2014-09-09",
+  "SENIORITY (DAYS)": 3965,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Fatima Zafar",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2012-12-16",
+  "SENIORITY (DAYS)": 4597,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Adeel Ansari",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2018-06-09",
+  "SENIORITY (DAYS)": 2596,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Usman Hassan",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2007-11-19",
+  "SENIORITY (DAYS)": 6451,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Noman Tariq",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2006-08-07",
+  "SENIORITY (DAYS)": 6920,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Rida Shaikh",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2016-08-06",
+  "SENIORITY (DAYS)": 3268,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Tariq Iqbal",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-05-01",
+  "SENIORITY (DAYS)": 5192,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Bilal Iqbal",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-05-25",
+  "SENIORITY (DAYS)": 5168,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Asim Khan",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2020-06-01",
+  "SENIORITY (DAYS)": 1873,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Adeel Mirza",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2014-01-03",
+  "SENIORITY (DAYS)": 4214,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Bilal Farooq",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2020-10-28",
+  "SENIORITY (DAYS)": 1724,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Nadia Chaudhry",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2019-10-16",
+  "SENIORITY (DAYS)": 2102,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Fatima Tariq",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2014-02-14",
+  "SENIORITY (DAYS)": 4172,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Nadia Iqbal",
+  "DESIGNATION": "Assistant Registrar",
+  "GRADE": 19,
+  "DATE OF JOINING": "2011-08-07",
+  "SENIORITY (DAYS)": 5094,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Rida Ansari",
+  "DESIGNATION": "Section Officer",
+  "GRADE": 19,
+  "DATE OF JOINING": "2020-12-23",
+  "SENIORITY (DAYS)": 1668,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Hira Jamal",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2012-02-09",
+  "SENIORITY (DAYS)": 4908,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Ayesha Chaudhry",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2013-10-21",
+  "SENIORITY (DAYS)": 4288,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Usman Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2023-01-22",
+  "SENIORITY (DAYS)": 908,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Tariq Shaikh",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2021-08-30",
+  "SENIORITY (DAYS)": 1418,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Usman Ahmed",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2016-08-04",
+  "SENIORITY (DAYS)": 3270,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Ali Iqbal",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-12-24",
+  "SENIORITY (DAYS)": 6781,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Usman Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2014-08-29",
+  "SENIORITY (DAYS)": 3976,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Salman Chaudhry",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-05-06",
+  "SENIORITY (DAYS)": 7013,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Salman Ansari",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2013-02-07",
+  "SENIORITY (DAYS)": 4544,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Asim Shaikh",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-11-25",
+  "SENIORITY (DAYS)": 2062,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Hira Zafar",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2020-04-22",
+  "SENIORITY (DAYS)": 1913,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Hira Ahmed",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2012-06-14",
+  "SENIORITY (DAYS)": 4782,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Ayesha Iqbal",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2012-10-10",
+  "SENIORITY (DAYS)": 4664,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Zain Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2018-10-30",
+  "SENIORITY (DAYS)": 2453,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Fatima Ahmed",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2009-12-09",
+  "SENIORITY (DAYS)": 5700,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Usman Farooq",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2007-09-09",
+  "SENIORITY (DAYS)": 6522,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Adeel Ahmed",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2014-04-08",
+  "SENIORITY (DAYS)": 4119,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Sana Ansari",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2021-09-22",
+  "SENIORITY (DAYS)": 1395,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Tariq Rizvi",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2016-01-21",
+  "SENIORITY (DAYS)": 3466,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Zain Zafar",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2017-05-04",
+  "SENIORITY (DAYS)": 2997,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Nadia Ansari",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2022-03-04",
+  "SENIORITY (DAYS)": 1232,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Bilal Chaudhry",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-08-14",
+  "SENIORITY (DAYS)": 2165,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Ms. Usman Iqbal",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2017-12-11",
+  "SENIORITY (DAYS)": 2776,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Asim Chaudhry",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2020-02-29",
+  "SENIORITY (DAYS)": 1966,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Adeel Tariq",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2017-10-03",
+  "SENIORITY (DAYS)": 2845,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Ayesha Jamal",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-09-11",
+  "SENIORITY (DAYS)": 2137,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Hira Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2017-04-12",
+  "SENIORITY (DAYS)": 3019,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Hira Rizvi",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2019-05-21",
+  "SENIORITY (DAYS)": 2250,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Zain Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2014-05-17",
+  "SENIORITY (DAYS)": 4080,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Rida Shaikh",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-10-30",
+  "SENIORITY (DAYS)": 6836,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Zain Iqbal",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2013-08-09",
+  "SENIORITY (DAYS)": 4361,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Bilal Chaudhry",
+  "DESIGNATION": "Superintendent",
+  "GRADE": 18,
+  "DATE OF JOINING": "2009-09-27",
+  "SENIORITY (DAYS)": 5773,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Asim Zafar",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2006-10-13",
+  "SENIORITY (DAYS)": 6853,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Ali Ahmed",
+  "DESIGNATION": "Office Incharge",
+  "GRADE": 18,
+  "DATE OF JOINING": "2010-06-28",
+  "SENIORITY (DAYS)": 5499,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Sana Ahmed",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-03-08",
+  "SENIORITY (DAYS)": 3419,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Ayesha Tariq",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2019-03-25",
+  "SENIORITY (DAYS)": 2307,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Mr. Zain Rizvi",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-05-05",
+  "SENIORITY (DAYS)": 5918,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Tariq Chaudhry",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2006-11-23",
+  "SENIORITY (DAYS)": 6812,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Hira Iqbal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2014-02-11",
+  "SENIORITY (DAYS)": 4175,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Fatima Khan",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-12-05",
+  "SENIORITY (DAYS)": 591,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Ayesha Shaikh",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2012-07-18",
+  "SENIORITY (DAYS)": 4748,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Salman Zafar",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-12-25",
+  "SENIORITY (DAYS)": 3127,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Hira Khan",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2013-06-12",
+  "SENIORITY (DAYS)": 4419,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Nadia Zafar",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2007-10-20",
+  "SENIORITY (DAYS)": 6481,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Sana Hassan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-10-11",
+  "SENIORITY (DAYS)": 646,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Bilal Khan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-06-16",
+  "SENIORITY (DAYS)": 763,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Ali Mirza",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2010-04-07",
+  "SENIORITY (DAYS)": 5581,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Bilal Ansari",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2021-04-09",
+  "SENIORITY (DAYS)": 1561,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Ayesha Rizvi",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2006-11-19",
+  "SENIORITY (DAYS)": 6816,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Rida Tariq",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2021-02-15",
+  "SENIORITY (DAYS)": 1614,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Hira Khan",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2013-05-11",
+  "SENIORITY (DAYS)": 4451,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Hira Rizvi",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-01-16",
+  "SENIORITY (DAYS)": 6027,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Hira Farooq",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2021-08-15",
+  "SENIORITY (DAYS)": 1433,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Ayesha Farooq",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2014-01-17",
+  "SENIORITY (DAYS)": 4200,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Ayesha Tariq",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2006-06-24",
+  "SENIORITY (DAYS)": 6964,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Sana Rizvi",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2010-08-25",
+  "SENIORITY (DAYS)": 5441,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Bilal Mirza",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2006-07-31",
+  "SENIORITY (DAYS)": 6927,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Ms. Tariq Zafar",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2010-12-20",
+  "SENIORITY (DAYS)": 5324,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Adeel Jamal",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2017-09-11",
+  "SENIORITY (DAYS)": 2867,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Zain Ansari",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2015-12-13",
+  "SENIORITY (DAYS)": 3505,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Mr. Bilal Zafar",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2021-12-21",
+  "SENIORITY (DAYS)": 1305,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Salman Chaudhry",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2008-02-18",
+  "SENIORITY (DAYS)": 6360,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Ali Hassan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2008-09-28",
+  "SENIORITY (DAYS)": 6137,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Rida Iqbal",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2019-10-06",
+  "SENIORITY (DAYS)": 2112,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Adeel Zafar",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2011-12-31",
+  "SENIORITY (DAYS)": 4948,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Adeel Shaikh",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2020-09-28",
+  "SENIORITY (DAYS)": 1754,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Ms. Bilal Jamal",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2019-05-17",
+  "SENIORITY (DAYS)": 2254,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Noman Khan",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2007-02-12",
+  "SENIORITY (DAYS)": 6731,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Zain Ahmed",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2008-07-21",
+  "SENIORITY (DAYS)": 6206,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Ms. Zain Rizvi",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2019-04-21",
+  "SENIORITY (DAYS)": 2280,
+  "CITY": "Hyderabad"
+ },
+ {
+  "NAME": "Mr. Salman Farooq",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2015-01-27",
+  "SENIORITY (DAYS)": 3825,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Sana Iqbal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2007-10-07",
+  "SENIORITY (DAYS)": 6494,
+  "CITY": "Quetta"
+ },
+ {
+  "NAME": "Mr. Fatima Hassan",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2017-06-09",
+  "SENIORITY (DAYS)": 2961,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Noman Mirza",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2020-06-23",
+  "SENIORITY (DAYS)": 1851,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Hira Mirza",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-01-26",
+  "SENIORITY (DAYS)": 3461,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Tariq Iqbal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-10-05",
+  "SENIORITY (DAYS)": 652,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Fatima Farooq",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2014-09-02",
+  "SENIORITY (DAYS)": 3972,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Mr. Bilal Jamal",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-05-16",
+  "SENIORITY (DAYS)": 5907,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Fatima Ansari",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2014-02-12",
+  "SENIORITY (DAYS)": 4174,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Ms. Salman Mirza",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2022-07-26",
+  "SENIORITY (DAYS)": 1088,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Adeel Ansari",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2008-12-09",
+  "SENIORITY (DAYS)": 6065,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Ms. Zain Shaikh",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-04-18",
+  "SENIORITY (DAYS)": 822,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Zain Shaikh",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-02-07",
+  "SENIORITY (DAYS)": 6005,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Rida Jamal",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2006-02-13",
+  "SENIORITY (DAYS)": 7095,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Fatima Khan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2023-10-22",
+  "SENIORITY (DAYS)": 635,
+  "CITY": "Larkana"
+ },
+ {
+  "NAME": "Mr. Fatima Hassan",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2018-06-06",
+  "SENIORITY (DAYS)": 2599,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Usman Ansari",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2022-06-28",
+  "SENIORITY (DAYS)": 1116,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Salman Mirza",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-09-25",
+  "SENIORITY (DAYS)": 3218,
+  "CITY": "Islamabad"
+ },
+ {
+  "NAME": "Mr. Tariq Iqbal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-08-14",
+  "SENIORITY (DAYS)": 3260,
+  "CITY": "Multan"
+ },
+ {
+  "NAME": "Ms. Hira Jamal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2011-12-25",
+  "SENIORITY (DAYS)": 4954,
+  "CITY": "Lahore"
+ },
+ {
+  "NAME": "Ms. Usman Iqbal",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2010-01-18",
+  "SENIORITY (DAYS)": 5660,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Nadia Hassan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-08-03",
+  "SENIORITY (DAYS)": 5828,
+  "CITY": "Karachi"
+ },
+ {
+  "NAME": "Mr. Ali Khan",
+  "DESIGNATION": "Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-02-03",
+  "SENIORITY (DAYS)": 3453,
+  "CITY": "Peshawar"
+ },
+ {
+  "NAME": "Mr. Nadia Chaudhry",
+  "DESIGNATION": "Lab Coordinator",
+  "GRADE": 17,
+  "DATE OF JOINING": "2009-02-01",
+  "SENIORITY (DAYS)": 6011,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Ms. Adeel Jamal",
+  "DESIGNATION": "IT Support",
+  "GRADE": 17,
+  "DATE OF JOINING": "2014-09-06",
+  "SENIORITY (DAYS)": 3968,
+  "CITY": "Nawabshah"
+ },
+ {
+  "NAME": "Mr. Fatima Ahmed",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2016-01-04",
+  "SENIORITY (DAYS)": 3483,
+  "CITY": "Sukkur"
+ },
+ {
+  "NAME": "Ms. Asim Rizvi",
+  "DESIGNATION": "Teaching Assistant",
+  "GRADE": 17,
+  "DATE OF JOINING": "2015-12-26",
+  "SENIORITY (DAYS)": 3492,
+  "CITY": "Lahore"
+ }
+]

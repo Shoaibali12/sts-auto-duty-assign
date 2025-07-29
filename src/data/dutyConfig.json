@@ -1,0 +1,44 @@
+{
+  "centerIncharge": {
+    "smallBlockThreshold": 6,
+    "smallBlockIncharges": 1,
+    "largeBlockIncharges": 2,
+    "hallIncharges": 3
+  },
+  "supervision": {
+    "blocksPerSupervisor": 10
+  },
+  "invigilation": {
+    "invigilatorsPerBlock": 1
+  },
+  "coordination": {
+    "academicBlock": {
+      "coordinatorsPerBlock": 3
+    },
+    "hall": {
+      "coordinators": 5
+    }
+  },
+  "support": {
+    "academicBlock": {
+      "peonsPerBlock": 2,
+      "mallisPerBlock": 2
+    },
+    "hall": {
+      "roles": [
+        "IT Support",
+        "Procurement",
+        "Advances",
+        "Photocopy",
+        "Technician",
+        "Electrician",
+        "Marketing",
+        "Photography",
+        "Water & Task Handling",
+        "Departure",
+        "Security",
+        "Physician"
+      ]
+    }
+  }
+}
