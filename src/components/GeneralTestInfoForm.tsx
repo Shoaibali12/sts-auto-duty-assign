@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import VenueSelector from "./Venue/VenueSelector";
 import CampusBlockConfig from "./Venue/CampusBlockConfig";
-import ExternalVenueConfig from "./Venue/ExternalVenueConfig";
 import { BlockDetails } from "./Venue/types";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
@@ -28,18 +27,11 @@ const GeneralTestInformationForm: React.FC = () => {
 
   const [venueType, setVenueType] = useState<string>("");
 
-  // Campus State
+  // Campus/External Shared State
   const [selectedBlock, setSelectedBlock] = useState<string | null>(null);
   const [blockDetails, setBlockDetails] = useState<BlockDetails>({});
-
-  // Shared State
   const [supervisors, setSupervisors] = useState<string[]>([]);
   const [supportRoles, setSupportRoles] = useState<string[]>([]);
-
-  // External Venue State
-  const [numberOfBlocks, setNumberOfBlocks] = useState<number>(0);
-  const [studentsPerBlock, setStudentsPerBlock] = useState<number>(0);
-  const [blocksPerSupervisor, setBlocksPerSupervisor] = useState<number>(0);
 
   return (
     <div className="p-6 max-w-6xl mx-auto">
@@ -121,7 +113,7 @@ const GeneralTestInformationForm: React.FC = () => {
         </>
       )}
 
-      {/* Step 2: Venue Selector and Configs */}
+      {/* Step 2: Venue Selector and Config */}
       {step === 2 && (
         <>
           <VenueSelector
@@ -129,29 +121,15 @@ const GeneralTestInformationForm: React.FC = () => {
             onTypeChange={(type) => setVenueType(type)}
           />
 
-          {venueType === "campus" && (
+          {venueType && (
             <CampusBlockConfig
+              venueType={venueType}
               selectedBlock={selectedBlock}
               setSelectedBlock={setSelectedBlock}
               blockDetails={blockDetails}
               setBlockDetails={setBlockDetails}
               supervisors={supervisors}
               supportRoles={supportRoles}
-            />
-          )}
-
-          {venueType === "external" && (
-            <ExternalVenueConfig
-              numberOfBlocks={numberOfBlocks}
-              setNumberOfBlocks={setNumberOfBlocks}
-              studentsPerBlock={studentsPerBlock}
-              setStudentsPerBlock={setStudentsPerBlock}
-              supervisors={supervisors}
-              setSupervisors={setSupervisors}
-              blocksPerSupervisor={blocksPerSupervisor}
-              setBlocksPerSupervisor={setBlocksPerSupervisor}
-              supportRoles={supportRoles}
-              setSupportRoles={setSupportRoles}
             />
           )}
 

@@ -1,8 +1,14 @@
+// CampusBlockConfig.tsx
 import React, { useState } from "react";
 import Select, { SingleValue } from "react-select";
 import BlockConfigForm from "./BlockConfigForm";
-import { dummySupervisors } from "../../data/constants";
-import { customSelectStyles } from "../../utils/selectStyles"; // import your custom styles function
+import {
+  dummySupervisors,
+  campusOptions,
+  blockOptions,
+  venueOptions,
+} from "../../data/constants";
+import { customSelectStyles } from "../../utils/selectStyles";
 
 interface BlockDetails {
   rooms: number;
@@ -12,6 +18,7 @@ interface BlockDetails {
 }
 
 interface CampusBlockConfigProps {
+  venueType: string;
   selectedBlock: string | null;
   setSelectedBlock: React.Dispatch<React.SetStateAction<string | null>>;
   blockDetails: { [block: string]: BlockDetails };
@@ -22,23 +29,10 @@ interface CampusBlockConfigProps {
   supportRoles: string[];
 }
 
-const campusOptions = [
-  { value: "main", label: "Sukkur IBA University, Main Campus" },
-  { value: "kandkot", label: "Sukkur IBA University, Kandkot Campus" },
-  { value: "mirpurkhas", label: "Sukkur IBA University, Mirpurkhas Campus" },
-  { value: "kherpur", label: "Sukkur IBA University, Kherpur Campus" },
-];
-
-const blockOptions = [
-  { value: "Block-1", label: "Block-I" },
-  { value: "Block-2", label: "Block-II" },
-  { value: "Block-3", label: "Block-III" },
-  { value: "Block-4", label: "Block-IV" },
-];
-
 type OptionType = { value: string; label: string };
 
 const CampusBlockConfig: React.FC<CampusBlockConfigProps> = ({
+  venueType,
   selectedBlock,
   setSelectedBlock,
   blockDetails,
@@ -48,88 +42,124 @@ const CampusBlockConfig: React.FC<CampusBlockConfigProps> = ({
 }) => {
   const [selectedCampus, setSelectedCampus] =
     useState<SingleValue<OptionType>>(null);
+  const [saved, setSaved] = useState(false);
+  const [showToast, setShowToast] = useState(false);
+
+  const isExternal = venueType === "external";
 
   const handleSelectCampus = (option: SingleValue<OptionType>) => {
     setSelectedCampus(option);
-    setSelectedBlock(null); // Clear block selection when campus changes
+    setSelectedBlock(null);
+    setSaved(false);
   };
 
   const handleSelectBlock = (option: SingleValue<OptionType>) => {
     setSelectedBlock(option ? option.value : null);
+    setSaved(false);
+  };
+
+  const handleSave = () => {
+    setSaved(true);
+    setShowToast(true);
+    setSelectedBlock(null);
+
+    setTimeout(() => {
+      setShowToast(false);
+    }, 2500);
   };
 
   const selectedCampusOption = selectedCampus || null;
-  const selectedOption =
+  const selectedBlockOption =
     blockOptions.find((opt) => opt.value === selectedBlock) || null;
 
-  const config = selectedBlock
-    ? blockDetails[selectedBlock] || {
-        rooms: 0,
-        studentsPerRoom: 0,
-        supervisor: dummySupervisors[0],
-        supportRoles: [],
-      }
-    : null;
+  const configKey =
+    (isExternal ? selectedCampus?.value + "-" : "") + (selectedBlock || "");
+
+  const config = blockDetails[configKey] || {
+    rooms: 0,
+    studentsPerRoom: 0,
+    supervisor: dummySupervisors[0],
+    supportRoles: [],
+  };
+
+  const showConfigForm = selectedCampus && selectedBlock;
 
   return (
-    <div className="bg-white p-8 rounded-2xl shadow-xl border border-gray-200 mt-8 max-w-6xl mx-auto">
+    <div className="bg-white p-8 rounded-2xl shadow-xl border border-gray-200 mt-8 max-w-6xl mx-auto relative">
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-xl md:text-2xl font-semibold text-gray-800">
-          Academic Block Configuration
+          {isExternal
+            ? "External Venue Configuration"
+            : "Academic Block Configuration"}
         </h2>
         <span className="text-sm text-gray-500 italic">
-          Configure each block’s room and staffing
+          Configure block rooms and staff
         </span>
       </div>
 
-      {/* Campus Dropdown */}
+      {/* Select Campus or External Venue */}
       <div className="mb-6 max-w-md">
         <label className="block text-sm font-medium text-gray-700 mb-1">
-          Select Campus
+          {isExternal ? "Select External Venue" : "Select Campus"}
         </label>
         <Select<OptionType>
-          options={campusOptions}
+          options={isExternal ? venueOptions : campusOptions}
           value={selectedCampusOption}
           onChange={handleSelectCampus}
           isClearable
           className="react-select-container"
           classNamePrefix="react-select"
-          placeholder="Choose a campus..."
-          styles={customSelectStyles<OptionType>(430)} // use your custom style with width 430
+          placeholder={isExternal ? "Choose a venue..." : "Choose a campus..."}
+          styles={customSelectStyles<OptionType>(430)}
         />
       </div>
 
-      {/* Academic Block Dropdown (disabled until campus selected) */}
-      <div className="mb-8 max-w-md">
-        <label className="block text-sm font-medium text-gray-700 mb-1">
-          Select Academic Block
-        </label>
-        <Select<OptionType>
-          options={blockOptions}
-          value={selectedOption}
-          onChange={handleSelectBlock}
-          isClearable
-          isDisabled={!selectedCampus}
-          className="react-select-container"
-          classNamePrefix="react-select"
-          placeholder={
-            selectedCampus ? "Choose a block..." : "Select campus first"
-          }
-          styles={customSelectStyles<OptionType>(200)} // narrower width for block selector
-        />
-      </div>
+      {/* Select Block (for both venue types, with label changing) */}
+      {selectedCampus && (
+        <div className="mb-8 max-w-md">
+          <label className="block text-sm font-medium text-gray-700 mb-1">
+            {isExternal ? "Select Block" : "Select Academic Block"}
+          </label>
+          <Select<OptionType>
+            options={blockOptions}
+            value={selectedBlockOption}
+            onChange={handleSelectBlock}
+            isClearable
+            className="react-select-container"
+            classNamePrefix="react-select"
+            placeholder="Choose a block..."
+            styles={customSelectStyles<OptionType>(200)}
+          />
+        </div>
+      )}
 
-      {selectedBlock && config ? (
+      {/* Toast */}
+      {showToast && (
+        <div className="absolute top-4 right-4 bg-green-500 text-white px-4 py-2 rounded-lg shadow-md z-50">
+          ✅ Saved successfully
+        </div>
+      )}
+
+      {/* Config Form */}
+      {showConfigForm && config && !saved ? (
         <div className="transition-all duration-300 ease-in-out">
           <BlockConfigForm
-            block={selectedBlock}
+            block={configKey}
             config={config}
             setBlockDetails={setBlockDetails}
           />
+          <button
+            onClick={handleSave}
+            className="mt-4 px-5 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition text-sm"
+          >
+            Save
+          </button>
         </div>
       ) : (
         <div className="mt-6 text-center text-gray-500 italic">
-          Please select a block to configure its settings.
+          {isExternal
+            ? "Please select a venue and block to configure."
+            : "Please select a campus and academic block to configure."}
         </div>
       )}
     </div>
